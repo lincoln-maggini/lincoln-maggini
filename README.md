@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Lincoln Maggini
 
-<!--
-**lincoln-maggini/lincoln-maggini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou **Desenvolvedor Júnior**, com foco em **Python**, **desenvolvimento web** e **Processamento de Linguagem Natural (PLN)**.  
+Tenho experiência prática no desenvolvimento de sistemas completos, envolvendo **backend, frontend, arquitetura MVC e banco de dados**.
 
-Here are some ideas to get you started:
+🎓 Técnico em Informática — **Instituto Federal do Paraná - Campus Jacarezinho**  
+📍 Ribeirão Claro – PR, Brasil  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 **LinkedIn:** https://www.linkedin.com/in/lincoln-maggini-mauro/
+
+---
+
+## 🚀 Principais áreas de interesse
+- Desenvolvimento Web (Backend e Frontend)
+- Mineração de Textos e PLN
+- Arquitetura de Software (MVC)
+- APIs REST
+- Análise e processamento de dados textuais
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+**Linguagens**
+- Python
+- JavaScript
+
+**Backend**
+- Flask
+- API REST
+- MVC
+
+**Frontend**
+- HTML5
+- CSS3
+- JavaScript
+
+**Banco de Dados**
+- MySQL
+
+**Outros**
+- Git & GitHub
+- Mineração de Textos
+- Processamento de Linguagem Natural (PLN)
