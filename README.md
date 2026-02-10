@@ -41,3 +41,20 @@ Tenho experiência prática no desenvolvimento de sistemas completos, envolvendo
 - Git & GitHub
 - Mineração de Textos
 - Processamento de Linguagem Natural (PLN)
+
+---
+
+## 📌 Projeto em destaque
+### 🔹 Sistema de Pré-processamento Textual para Mineração de Textos
+Sistema web desenvolvido para pré-processamento e análise textual, aplicado à Mineração de Textos e PLN.
+
+**Funcionalidades:**
+- Configuração dinâmica das etapas de pré-processamento
+- Limpeza textual, normalização e remoção de stopwords
+- Aplicação de Snowball Stemmer
+- Ranking de frequência de termos e nuvem de palavras
+- Comparação entre texto original e texto processado
+- Persistência e histórico de análises
+
+🛠️ **Tecnologias:** Python, Flask, HTML, CSS, JavaScript, MySQL  
+🔗 **Repositório:** https://github.com/lincoln-maggini/sistema-pre-processamento-textual
